@@ -14,6 +14,6 @@ $pip install mechanize requests bs4 futures
 
 $git clone https://github.com/WahyuGans14/ghost
 
-$cd mbf
+$cd ghost
 
-$python fb.py
+$python efbeh.py
